@@ -25,8 +25,7 @@ int main(int argc, char const *argv[])
   scanf("%s", nombre);
 
   /*
-    strcmp() compara dos cadenas de caracteres y devuelve 0
-    si son iguales o un numero distinto de 0 si son distintas
+    strcmp() compara dos cadenas de caracteres y devuelve 0 si son iguales
   */
 
   while (strcmp(nombre, "ZZZ") != 0)
