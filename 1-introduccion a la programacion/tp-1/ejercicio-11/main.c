@@ -10,8 +10,7 @@ int main(int argc, char const *argv[])
 
   float centigrados;
 
-  float kelvin;
-  float fahrenheit;
+  float kelvin, fahrenheit;
 
   printf("Ingrese la temperatura en grados centigrados: ");
   scanf("%f", &centigrados);

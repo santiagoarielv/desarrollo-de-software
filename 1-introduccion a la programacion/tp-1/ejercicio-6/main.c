@@ -7,13 +7,9 @@ int main(int argc, char const *argv[])
       6-INGRESAR 3 NÚMEROS E IMPRIMIR EL DOBLE, EL TRIPLE Y LA MITAD DE CADA UNO.
   */
 
-  int num1;
-  int num2;
-  int num3;
+  int num1, num2, num3;
 
-  int doble;
-  int triple;
-  int mitad;
+  int doble, triple, mitad;
 
   printf("Ingrese el primer numero: ");
   scanf("%d", &num1);

@@ -10,14 +10,10 @@ int main(int argc, char const *argv[])
     VALORES INTERCAMBIADOS.
   */
 
-  int a;
-  int b;
+  int a, b;
   int auxiliar;
 
-  int suma;
-  int resta;
-  int division;
-  int multiplicacion;
+  int suma, resta, division, multiplicacion;
 
   printf("Ingrese el primer numero: ");
   scanf("%d", &a);

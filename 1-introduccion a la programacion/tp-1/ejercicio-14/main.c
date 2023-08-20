@@ -11,9 +11,8 @@ int main(int argc, char const *argv[])
   */
 
   char nombre[50];
-  float precio;
+  float precio, total;
   int unidades;
-  float total;
 
   printf("Ingrese el nombre del producto: ");
   scanf("%s", nombre);

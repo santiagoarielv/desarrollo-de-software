@@ -8,8 +8,7 @@ int main(int argc, char const *argv[])
     CILINDRO DADO SU RADIO Y SU ALTURA.
   */
 
-  float radio;
-  float altura;
+  float radio, altura;
 
   float area;
   float volumen;

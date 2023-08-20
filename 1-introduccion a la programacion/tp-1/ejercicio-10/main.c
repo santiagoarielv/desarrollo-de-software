@@ -9,9 +9,7 @@ int main(int argc, char const *argv[])
     RECTÁNGULO CONOCIDAS LAS LONGITUDES DE SUS CATETOS.
   */
 
-  float cateto1;
-  float cateto2;
-
+  float cateto1, cateto2;
   float hipotenusa;
 
   printf("Ingrese el cateto 1: ");

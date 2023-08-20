@@ -133,13 +133,11 @@ int main(int argc, char *argv[])
     totalTurnos++;
     totalRecaudado += valorConsulta;
 
+    printf("El valor de la consulta es de: %.2f\n", valorConsulta);
+
     printf("Ingrese la condicion (S (socio), P (particular), E (salir)): ");
     scanf("%c", &condicion);
   }
-
-  printf("El valor de la consulta es de:\n");
-  printf("Socios: %.2f\n", totalSocios);
-  printf("Privados: %.2f\n", totalPrivados);
 
   printf("La cantidad de turnos del tipo socio es de: %d\n", cantidadSocios);
   printf("La cantidad de turnos del tipo particular es de: %d\n", cantidadPrivados);

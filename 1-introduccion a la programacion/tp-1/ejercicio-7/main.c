@@ -9,9 +9,7 @@ int main(int argc, char const *argv[])
 
   float importe;
 
-  float porcentaje80;
-  float porcentaje20;
-  float porcentaje15;
+  float porcentaje80, porcentaje20, porcentaje15;
 
   printf("Ingrese el importe: ");
   scanf("%f", &importe);

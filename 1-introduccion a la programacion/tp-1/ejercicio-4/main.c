@@ -8,8 +8,7 @@ int main(int argc, char const *argv[])
     (A+B)*(A-B).
   */
 
-  int a;
-  int b;
+  int a, b;
 
   int resultado;
 

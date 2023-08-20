@@ -8,9 +8,7 @@ int main(int argc, char const *argv[])
     INFORMAR LA SUMA Y EL PROMEDIO DE DICHOS VALORES.
   */
 
-  float temperatura1;
-  float temperatura2;
-  float temperatura3;
+  float temperatura1, temperatura2, temperatura3;
   float suma;
   float promedio;
 

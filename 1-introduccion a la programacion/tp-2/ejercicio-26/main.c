@@ -18,13 +18,12 @@ int main(int argc, char const *argv[])
   {
     sum += i;
   }
-
   printf("Suma con FOR: %d\n", sum);
 
-  // B) ESTRUCTURA MIENTRAS
   i = 1;
   sum = 0;
 
+  // B) ESTRUCTURA MIENTRAS
   while (i <= 100)
   {
     sum += i;
@@ -33,11 +32,10 @@ int main(int argc, char const *argv[])
 
   printf("Suma con WHILE: %d\n", sum);
 
-  // C) ESTRUCTURA HACER MIENTRAS
-
   i = 1;
   sum = 0;
 
+  // C) ESTRUCTURA HACER MIENTRAS
   do
   {
     sum += i;

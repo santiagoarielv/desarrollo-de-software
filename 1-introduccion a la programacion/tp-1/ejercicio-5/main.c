@@ -8,8 +8,7 @@ int main(int argc, char const *argv[])
     NÚMERO BASE Y EL EXPONENTE.
   */
 
-  int base;
-  int exponente;
+  int base, exponente;
 
   int resultado;
 
